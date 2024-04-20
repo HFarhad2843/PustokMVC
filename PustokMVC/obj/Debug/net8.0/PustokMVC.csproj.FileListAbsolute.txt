@@ -1025,3 +1025,4 @@ C:\Users\Pc\Desktop\Pustok\PustokMVC\PustokMVC\obj\Debug\net8.0\refint\PustokMVC
 C:\Users\Pc\Desktop\Pustok\PustokMVC\PustokMVC\obj\Debug\net8.0\PustokMVC.pdb
 C:\Users\Pc\Desktop\Pustok\PustokMVC\PustokMVC\obj\Debug\net8.0\PustokMVC.genruntimeconfig.cache
 C:\Users\Pc\Desktop\Pustok\PustokMVC\PustokMVC\obj\Debug\net8.0\ref\PustokMVC.dll
+C:\Users\Pc\Desktop\Pustok\PustokMVC\PustokMVC\obj\Debug\net8.0\PustokMVC.sourcelink.json
